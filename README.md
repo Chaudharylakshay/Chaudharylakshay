@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, main Lakshay Chaudhary
+### 3rd year IT student | Learning in public 🚀
 
-<!--
-**Chaudharylakshay/Chaudharylakshay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Trophies](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical&no-frame=true&row=1)
 
-Here are some ideas to get you started:
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🌱 Abhi kya kar raha hu
+- College ke saath coding seekh raha hu
+- Roz chhote projects bana raha hu
